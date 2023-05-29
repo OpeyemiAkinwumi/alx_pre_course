@@ -1,0 +1,4 @@
+git remote upstream <repo_URL> to connect to remote REPO
+
+To Update repo
+git pull upstream master
